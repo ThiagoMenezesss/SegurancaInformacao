@@ -55,7 +55,7 @@ def decifrar_hibrido(chave_privada, pacote_cifrado):
     return mensagem_decifrada
 
 def assinar_mensagem(chave_privada, mensagem_bytes):
-    # Assinatura digital RSA-PSS com SHA256
+    
     assinatura = chave_privada.sign(
         mensagem_bytes,
         padding.PSS(

@@ -1,5 +1,7 @@
 ## ENTREGA 1 - Criptografia Assimétrica e Confiança
 
+**Vídeo de Demonstração (Execução no Terminal):** [https://drive.google.com/file/d/1u6cprpSZrARMJOev1UhysfllF5DUorv0/view?usp=drivesdk]
+
 ### 1. Problema e Objetivo
 O objetivo deste projeto é simular o envio seguro de dados entre dois sistemas, usando criptografia híbrida para garantir que ninguém leia o conteúdo e assinatura digital para confirmar quem enviou.
 
@@ -85,3 +87,5 @@ OWASP Foundation. OWASP Top 10:2025 / ASVS 5.0.
 ISO/IEC 27002:2022. Information security, cybersecurity and privacy protection — Information security controls.
 
 Python Cryptography Authority (PyCA). Cryptography Documentation. https://cryptography.io/
+
+
