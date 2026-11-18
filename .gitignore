@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Nova Regra Adicionada
+venv/
+**/venv/
+usuarios_db.json
+**/usuarios_db.json
+__pycache__/
